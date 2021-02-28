@@ -40,5 +40,5 @@ Les codes ont été écrits avec des requêtes en DSL et en SQL.
 
 # Lancement du programme
 Assurez - Vous d'étre dans le bon fichier <br>
--  Lancement du porgramme : ouvrir un invité de commande et taper la commande suivante : 
+-  Lancement du porgramme : ouvrir un invité de commande et taper la commande suivante : \
 ```spark-submit script.py```
