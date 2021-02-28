@@ -41,4 +41,4 @@ Les codes ont été écrits avec des requêtes en DSL et en SQL.
 # Lancement du programme
 
 Il suffit de se placer dans le dossier Script et d'écrire la ligne de commande suivante dans un terminal : \
-python script.py
+```spark-submit script.py```
